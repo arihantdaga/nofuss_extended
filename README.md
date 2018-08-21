@@ -1,5 +1,5 @@
 # NoFUSS
-## This is extended version of nofuss library Originally(https://bitbucket.org/xoseperez/nofuss). 
+### This is extended version of nofuss library Originally(https://bitbucket.org/xoseperez/nofuss). 
 
 NoFUSS is a **Firmware Update Server for ESP8266** modules. It defines a protocol and its implementation as a PHP service and a C++ client library so your devices can check for updates, download them and flash them autonomously.
 
